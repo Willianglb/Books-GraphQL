@@ -1,0 +1,53 @@
+.inputNome {
+    border: 0;
+    border-bottom: 2px solid #9e9e9e;
+    outline: none;
+    transition: .2s ease-in-out;
+    box-sizing: border-box;
+    width: 250px;
+    padding: 10px;
+}
+
+.buttonNome {
+    background-color: rebeccapurple;
+    border-color: black;
+    color: #fff;
+    background-image: -webkit-linear-gradient(45deg, black 50%, transparent 50%);
+    background-image: linear-gradient(45deg, black 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    transition: background 300ms ease-in-out;
+}
+
+.buttonNome:hover {
+    background-position: 0;
+}
+
+.inputLivro {
+    border: 0;
+    border-bottom: 2px solid #9e9e9e;
+    outline: none;
+    transition: .2s ease-in-out;
+    box-sizing: border-box;
+    width: 250px;
+    padding: 10px;
+}
+
+.selectAutor {
+
+}
+
+.buttonLivro {
+    background-color: black;
+    border-color: rebeccapurple;
+    color: #fff;
+    background-image: -webkit-linear-gradient(45deg, rebeccapurple 50%, transparent 50%);
+    background-image: linear-gradient(45deg, rebeccapurple 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    transition: background 300ms ease-in-out;
+}
+
+.buttonLivro:hover {
+    background-position: 0;
+}
