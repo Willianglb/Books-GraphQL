@@ -14,7 +14,7 @@ Logo após pode inicializar o projeto digitando:
 (Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser)
 
-Deve-se estar com o servidor aberto:
+Deve-se estar com o servidor aberto -
 Link: https://github.com/Willianglb/Books-ServerExpress
 
 ## Learn More
